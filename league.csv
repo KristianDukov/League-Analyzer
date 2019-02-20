@@ -1,0 +1,886 @@
+,champs,wins,dates
+0, Braum ,game-summary-victory,11/11/2018
+1, Braum ,game-summary-victory,11/10/2018
+2, Braum ,game-summary-victory,11/10/2018
+3, Braum ,game-summary-victory,11/9/2018
+4, Braum ,game-summary-victory,11/9/2018
+5, Braum ,game-summary-victory,11/9/2018
+6, Tahm Kench ,game-summary-victory,11/8/2018
+7, Braum ,game-summary-victory,11/8/2018
+8, Braum ,game-summary-victory,11/8/2018
+9, Braum ,game-summary-defeat,11/8/2018
+10, Tahm Kench ,game-summary-defeat,11/8/2018
+11, Braum ,game-summary-victory,11/6/2018
+12, Tahm Kench ,game-summary-victory,11/5/2018
+13, Braum ,game-summary-victory,11/5/2018
+14, Tahm Kench ,game-summary-victory,11/5/2018
+15, Braum ,game-summary-victory,11/4/2018
+16, Braum ,game-summary-victory,11/4/2018
+17, Tahm Kench ,game-summary-defeat,11/3/2018
+18, Braum ,game-summary-victory,11/3/2018
+19, Braum ,game-summary-victory,11/3/2018
+20, Braum ,game-summary-defeat,11/3/2018
+21, Braum ,game-summary-earlysurrender,11/3/2018
+22, Tahm Kench ,game-summary-victory,11/3/2018
+23, Braum ,game-summary-victory,11/3/2018
+24, Braum ,game-summary-victory,11/3/2018
+25, Braum ,game-summary-victory,11/3/2018
+26, Tahm Kench ,game-summary-defeat,11/3/2018
+27, Leona ,game-summary-victory,11/3/2018
+28, Braum ,game-summary-defeat,11/2/2018
+29, Braum ,game-summary-victory,11/2/2018
+30, Braum ,game-summary-victory,11/2/2018
+31, Tahm Kench ,game-summary-victory,11/1/2018
+32, Tahm Kench ,game-summary-defeat,11/1/2018
+33, Braum ,game-summary-victory,11/1/2018
+34, Tahm Kench ,game-summary-victory,11/1/2018
+35, Braum ,game-summary-victory,11/1/2018
+36, Braum ,game-summary-victory,11/1/2018
+37, Tahm Kench ,game-summary-victory,10/30/2018
+38, Nunu & Willump ,game-summary-defeat,10/30/2018
+39, Braum ,game-summary-victory,10/30/2018
+40, Braum ,game-summary-victory,10/30/2018
+41, Taric ,game-summary-defeat,10/29/2018
+42, Nunu & Willump ,game-summary-defeat,10/28/2018
+43, Nunu & Willump ,game-summary-earlysurrender,10/28/2018
+44, Braum ,game-summary-defeat,10/28/2018
+45, Tahm Kench ,game-summary-victory,10/27/2018
+46, Tahm Kench ,game-summary-victory,10/27/2018
+47, Tahm Kench ,game-summary-defeat,10/27/2018
+48, Tahm Kench ,game-summary-victory,10/27/2018
+49, Tahm Kench ,game-summary-defeat,10/27/2018
+50, Braum ,game-summary-victory,10/27/2018
+51, Tahm Kench ,game-summary-victory,10/27/2018
+52, Vayne ,game-summary-victory,10/27/2018
+53, Tahm Kench ,game-summary-victory,10/27/2018
+54, Tahm Kench ,game-summary-defeat,10/27/2018
+55, Tahm Kench ,game-summary-defeat,10/27/2018
+56, Tahm Kench ,game-summary-victory,10/27/2018
+57, Tahm Kench ,game-summary-victory,10/27/2018
+58, Tahm Kench ,game-summary-defeat,10/26/2018
+59, Tahm Kench ,game-summary-victory,10/25/2018
+60, Tahm Kench ,game-summary-defeat,10/25/2018
+61, Tahm Kench ,game-summary-victory,10/25/2018
+62, Tahm Kench ,game-summary-defeat,10/24/2018
+63, Tahm Kench ,game-summary-victory,10/24/2018
+64, Tahm Kench ,game-summary-earlysurrender,10/24/2018
+65, Tahm Kench ,game-summary-victory,10/23/2018
+66, Tahm Kench ,game-summary-victory,10/23/2018
+67, Tahm Kench ,game-summary-victory,10/23/2018
+68, Tahm Kench ,game-summary-defeat,10/23/2018
+69, Tahm Kench ,game-summary-defeat,10/22/2018
+70, Tahm Kench ,game-summary-victory,10/22/2018
+71, Tahm Kench ,game-summary-victory,10/22/2018
+72, Tahm Kench ,game-summary-victory,10/21/2018
+73, Lulu ,game-summary-defeat,10/21/2018
+74, Lulu ,game-summary-defeat,10/21/2018
+75, Tahm Kench ,game-summary-defeat,10/21/2018
+76, Tahm Kench ,game-summary-defeat,10/21/2018
+77, Tahm Kench ,game-summary-defeat,10/21/2018
+78, Tahm Kench ,game-summary-defeat,10/20/2018
+79, Lulu ,game-summary-victory,10/20/2018
+80, Lulu ,game-summary-victory,10/20/2018
+81, Tahm Kench ,game-summary-defeat,10/20/2018
+82, Tahm Kench ,game-summary-victory,10/20/2018
+83, Tahm Kench ,game-summary-victory,10/20/2018
+84, Lulu ,game-summary-defeat,10/20/2018
+85, Tahm Kench ,game-summary-victory,10/20/2018
+86, Lulu ,game-summary-victory,10/19/2018
+87, Lulu ,game-summary-victory,10/19/2018
+88, Lulu ,game-summary-victory,10/19/2018
+89, Lulu ,game-summary-victory,10/18/2018
+90, Tahm Kench ,game-summary-defeat,10/18/2018
+91, Tahm Kench ,game-summary-victory,10/18/2018
+92, Tahm Kench ,game-summary-earlysurrender,10/18/2018
+93, Leona ,game-summary-defeat,10/17/2018
+94, Nunu & Willump ,game-summary-defeat,10/17/2018
+95, Tahm Kench ,game-summary-defeat,10/17/2018
+96, Nami ,game-summary-victory,10/16/2018
+97, Lulu ,game-summary-victory,10/16/2018
+98, Tahm Kench ,game-summary-defeat,10/16/2018
+99, Lulu ,game-summary-victory,10/15/2018
+100, Tahm Kench ,game-summary-victory,10/15/2018
+101, Tahm Kench ,game-summary-victory,10/15/2018
+102, Tahm Kench ,game-summary-victory,10/15/2018
+103, Tahm Kench ,game-summary-victory,10/14/2018
+104, Nunu & Willump ,game-summary-victory,10/7/2018
+105, Nunu & Willump ,game-summary-victory,10/7/2018
+106, Nunu & Willump ,game-summary-victory,10/7/2018
+107, Nunu & Willump ,game-summary-earlysurrender,10/7/2018
+108, Nunu & Willump ,game-summary-defeat,10/7/2018
+109, Nunu & Willump ,game-summary-defeat,10/7/2018
+110, Nunu & Willump ,game-summary-defeat,10/7/2018
+111, Nunu & Willump ,game-summary-victory,10/7/2018
+112, Nunu & Willump ,game-summary-defeat,10/7/2018
+113, Tahm Kench ,game-summary-earlysurrender,10/6/2018
+114, Nunu & Willump ,game-summary-victory,10/6/2018
+115, Nunu & Willump ,game-summary-victory,10/6/2018
+116, Nunu & Willump ,game-summary-defeat,10/6/2018
+117, Nunu & Willump ,game-summary-victory,10/6/2018
+118, Nunu & Willump ,game-summary-defeat,10/6/2018
+119, Bard ,game-summary-defeat,10/6/2018
+120, Bard ,game-summary-victory,10/6/2018
+121, Bard ,game-summary-defeat,10/6/2018
+122, Bard ,game-summary-victory,10/6/2018
+123, Tahm Kench ,game-summary-defeat,10/6/2018
+124, Nunu & Willump ,game-summary-defeat,10/6/2018
+125, Nunu & Willump ,game-summary-defeat,10/5/2018
+126, Nunu & Willump ,game-summary-defeat,10/5/2018
+127, Nunu & Willump ,game-summary-victory,10/4/2018
+128, Tahm Kench ,game-summary-defeat,10/4/2018
+129, Nunu & Willump ,game-summary-defeat,10/3/2018
+130, Nunu & Willump ,game-summary-defeat,10/3/2018
+131, Nunu & Willump ,game-summary-defeat,10/2/2018
+132, Nunu & Willump ,game-summary-defeat,10/2/2018
+133, Nami ,game-summary-victory,10/1/2018
+134, Tahm Kench ,game-summary-defeat,10/1/2018
+135, Soraka ,game-summary-defeat,9/30/2018
+136, Nunu & Willump ,game-summary-defeat,9/30/2018
+137, Nunu & Willump ,game-summary-victory,9/30/2018
+138, Nunu & Willump ,game-summary-victory,9/29/2018
+139, Nunu & Willump ,game-summary-victory,9/29/2018
+140, Nunu & Willump ,game-summary-defeat,9/29/2018
+141, Nunu & Willump ,game-summary-defeat,9/29/2018
+142, Nunu & Willump ,game-summary-earlysurrender,9/29/2018
+143, Lulu ,game-summary-defeat,9/29/2018
+144, Lulu ,game-summary-victory,9/29/2018
+145, Tahm Kench ,game-summary-defeat,9/29/2018
+146, Tahm Kench ,game-summary-victory,9/29/2018
+147, Tahm Kench ,game-summary-victory,9/28/2018
+148, Tahm Kench ,game-summary-victory,9/28/2018
+149, Nunu & Willump ,game-summary-victory,9/27/2018
+150, Nunu & Willump ,game-summary-defeat,9/25/2018
+151, Tahm Kench ,game-summary-defeat,9/24/2018
+152, Tahm Kench ,game-summary-victory,9/23/2018
+153, Tahm Kench ,game-summary-victory,9/23/2018
+154, Tahm Kench ,game-summary-victory,9/23/2018
+155, Tahm Kench ,game-summary-victory,9/23/2018
+156, Tahm Kench ,game-summary-defeat,9/23/2018
+157, Tahm Kench ,game-summary-defeat,9/22/2018
+158, Tahm Kench ,game-summary-defeat,9/22/2018
+159, Tahm Kench ,game-summary-defeat,9/22/2018
+160, Tahm Kench ,game-summary-defeat,9/22/2018
+161, Tahm Kench ,game-summary-defeat,9/22/2018
+162, Tahm Kench ,game-summary-victory,9/22/2018
+163, Janna ,game-summary-defeat,9/21/2018
+164, Lulu ,game-summary-defeat,9/21/2018
+165, Lulu ,game-summary-victory,9/20/2018
+166, Lulu ,game-summary-victory,9/19/2018
+167, Lulu ,game-summary-defeat,9/18/2018
+168, Lulu ,game-summary-victory,9/17/2018
+169, Lulu ,game-summary-defeat,9/16/2018
+170, Lulu ,game-summary-defeat,9/10/2018
+171, Tahm Kench ,game-summary-defeat,9/10/2018
+172, Lulu ,game-summary-defeat,9/10/2018
+173, Lulu ,game-summary-defeat,9/10/2018
+174, Lulu ,game-summary-victory,9/10/2018
+175, Lulu ,game-summary-victory,9/10/2018
+176, Tahm Kench ,game-summary-victory,9/9/2018
+177, Lulu ,game-summary-victory,9/9/2018
+178, Lulu ,game-summary-defeat,9/8/2018
+179, Lulu ,game-summary-defeat,9/8/2018
+180, Tahm Kench ,game-summary-defeat,9/8/2018
+181, Lulu ,game-summary-defeat,9/8/2018
+182, Lulu ,game-summary-earlysurrender,9/8/2018
+183, Lulu ,game-summary-victory,9/7/2018
+184, Lulu ,game-summary-victory,9/6/2018
+185, Lulu ,game-summary-victory,9/6/2018
+186, Lulu ,game-summary-victory,9/5/2018
+187, Nunu & Willump ,game-summary-victory,9/4/2018
+188, Tahm Kench ,game-summary-defeat,9/2/2018
+189, Tahm Kench ,game-summary-victory,9/2/2018
+190, Lulu ,game-summary-defeat,9/2/2018
+191, Lulu ,game-summary-victory,9/1/2018
+192, Lulu ,game-summary-victory,9/1/2018
+193, Soraka ,game-summary-defeat,9/1/2018
+194, Nami ,game-summary-defeat,9/1/2018
+195, Soraka ,game-summary-victory,9/1/2018
+196, Soraka ,game-summary-defeat,8/31/2018
+197, Tahm Kench ,game-summary-defeat,8/31/2018
+198, Tahm Kench ,game-summary-victory,8/29/2018
+199, Tahm Kench ,game-summary-victory,8/29/2018
+200, Soraka ,game-summary-defeat,8/27/2018
+201, Soraka ,game-summary-defeat,8/27/2018
+202, Soraka ,game-summary-defeat,8/27/2018
+203, Tahm Kench ,game-summary-defeat,8/26/2018
+204, Tahm Kench ,game-summary-defeat,8/26/2018
+205, Tahm Kench ,game-summary-defeat,8/26/2018
+206, Tahm Kench ,game-summary-defeat,8/25/2018
+207, Tahm Kench ,game-summary-earlysurrender,8/25/2018
+208, Tahm Kench ,game-summary-victory,8/25/2018
+209, Malphite ,game-summary-defeat,8/23/2018
+210, Malphite ,game-summary-victory,8/23/2018
+211, Tahm Kench ,game-summary-victory,8/22/2018
+212, Tahm Kench ,game-summary-defeat,8/19/2018
+213, Tahm Kench ,game-summary-defeat,8/19/2018
+214, Bard ,game-summary-defeat,8/19/2018
+215, Tahm Kench ,game-summary-defeat,8/19/2018
+216, Tahm Kench ,game-summary-defeat,8/19/2018
+217, Tahm Kench ,game-summary-defeat,8/18/2018
+218, Tahm Kench ,game-summary-victory,8/18/2018
+219, Tahm Kench ,game-summary-victory,8/18/2018
+220, Tahm Kench ,game-summary-victory,8/18/2018
+221, Tahm Kench ,game-summary-victory,8/18/2018
+222, Tahm Kench ,game-summary-victory,8/17/2018
+223, Tahm Kench ,game-summary-victory,8/17/2018
+224, Tahm Kench ,game-summary-victory,8/15/2018
+225, Tahm Kench ,game-summary-victory,8/15/2018
+226, Tahm Kench ,game-summary-victory,8/15/2018
+227, Tahm Kench ,game-summary-victory,8/15/2018
+228, Tahm Kench ,game-summary-defeat,8/15/2018
+229, Tahm Kench ,game-summary-victory,8/15/2018
+230, Tahm Kench ,game-summary-victory,8/14/2018
+231, Tahm Kench ,game-summary-victory,8/14/2018
+232, Tahm Kench ,game-summary-defeat,8/13/2018
+233, Tahm Kench ,game-summary-defeat,8/13/2018
+234, Tahm Kench ,game-summary-defeat,8/12/2018
+235, Tahm Kench ,game-summary-defeat,8/12/2018
+236, Tahm Kench ,game-summary-defeat,8/12/2018
+237, Tahm Kench ,game-summary-victory,8/12/2018
+238, Tahm Kench ,game-summary-defeat,8/12/2018
+239, Nami ,game-summary-defeat,8/11/2018
+240, Tahm Kench ,game-summary-defeat,8/11/2018
+241, Tahm Kench ,game-summary-victory,8/11/2018
+242, Tahm Kench ,game-summary-defeat,8/11/2018
+243, Tahm Kench ,game-summary-victory,8/11/2018
+244, Tahm Kench ,game-summary-defeat,8/11/2018
+245, Tahm Kench ,game-summary-defeat,8/11/2018
+246, Nami ,game-summary-defeat,8/11/2018
+247, Tahm Kench ,game-summary-defeat,8/11/2018
+248, Nami ,game-summary-victory,8/11/2018
+249, Tahm Kench ,game-summary-defeat,8/11/2018
+250, Soraka ,game-summary-victory,8/11/2018
+251, Tahm Kench ,game-summary-victory,8/11/2018
+252, Malphite ,game-summary-victory,8/11/2018
+253, Malphite ,game-summary-victory,8/11/2018
+254, Janna ,game-summary-defeat,8/8/2018
+255, Janna ,game-summary-victory,8/8/2018
+256, Tahm Kench ,game-summary-defeat,8/7/2018
+257, Tahm Kench ,game-summary-victory,8/7/2018
+258, Tahm Kench ,game-summary-defeat,8/6/2018
+259, Tahm Kench ,game-summary-defeat,8/6/2018
+260, Tahm Kench ,game-summary-defeat,8/5/2018
+261, Tahm Kench ,game-summary-defeat,8/5/2018
+262, Tahm Kench ,game-summary-victory,8/5/2018
+263, Malphite ,game-summary-victory,8/5/2018
+264, Tahm Kench ,game-summary-defeat,8/5/2018
+265, Tahm Kench ,game-summary-victory,8/5/2018
+266, Malphite ,game-summary-victory,8/5/2018
+267, Malphite ,game-summary-victory,8/5/2018
+268, Malphite ,game-summary-defeat,8/5/2018
+269, Tahm Kench ,game-summary-victory,8/5/2018
+270, Tahm Kench ,game-summary-defeat,8/5/2018
+271, Tahm Kench ,game-summary-victory,8/5/2018
+272, Tahm Kench ,game-summary-victory,8/4/2018
+273, Tahm Kench ,game-summary-defeat,8/4/2018
+274, Tahm Kench ,game-summary-victory,8/3/2018
+275, Tahm Kench ,game-summary-victory,8/3/2018
+276, Tahm Kench ,game-summary-victory,8/2/2018
+277, Tahm Kench ,game-summary-defeat,8/2/2018
+278, Tahm Kench ,game-summary-defeat,8/1/2018
+279, Tahm Kench ,game-summary-defeat,8/1/2018
+280, Janna ,game-summary-defeat,8/1/2018
+281, Tahm Kench ,game-summary-defeat,7/31/2018
+282, Bard ,game-summary-defeat,7/30/2018
+283, Tahm Kench ,game-summary-victory,7/30/2018
+284, Tahm Kench ,game-summary-defeat,7/29/2018
+285, Tahm Kench ,game-summary-defeat,7/29/2018
+286, Tahm Kench ,game-summary-defeat,7/28/2018
+287, Tahm Kench ,game-summary-defeat,7/28/2018
+288, Tahm Kench ,game-summary-victory,7/28/2018
+289, Tahm Kench ,game-summary-victory,7/28/2018
+290, Tahm Kench ,game-summary-victory,7/28/2018
+291, Tahm Kench ,game-summary-victory,7/27/2018
+292, Tahm Kench ,game-summary-defeat,7/26/2018
+293, Tahm Kench ,game-summary-victory,7/25/2018
+294, Tahm Kench ,game-summary-defeat,7/25/2018
+295, Tahm Kench ,game-summary-victory,7/24/2018
+296, Tahm Kench ,game-summary-defeat,7/24/2018
+297, Lulu ,game-summary-defeat,7/22/2018
+298, Tahm Kench ,game-summary-defeat,7/22/2018
+299, Tahm Kench ,game-summary-defeat,7/21/2018
+300, Tahm Kench ,game-summary-victory,7/21/2018
+301, Tahm Kench ,game-summary-defeat,7/21/2018
+302, Tahm Kench ,game-summary-defeat,7/21/2018
+303, Tahm Kench ,game-summary-defeat,7/19/2018
+304, Tahm Kench ,game-summary-victory,7/19/2018
+305, Bard ,game-summary-defeat,7/19/2018
+306, Bard ,game-summary-victory,7/19/2018
+307, Tahm Kench ,game-summary-victory,7/19/2018
+308, Tahm Kench ,game-summary-victory,7/19/2018
+309, Tahm Kench ,game-summary-defeat,7/19/2018
+310, Tahm Kench ,game-summary-defeat,7/19/2018
+311, Tahm Kench ,game-summary-defeat,7/18/2018
+312, Tahm Kench ,game-summary-victory,7/18/2018
+313, Tahm Kench ,game-summary-defeat,7/16/2018
+314, Tahm Kench ,game-summary-victory,7/15/2018
+315, Tahm Kench ,game-summary-victory,7/15/2018
+316, Tahm Kench ,game-summary-defeat,7/15/2018
+317, Bard ,game-summary-defeat,7/14/2018
+318, Bard ,game-summary-defeat,7/14/2018
+319, Bard ,game-summary-victory,7/14/2018
+320, Bard ,game-summary-victory,7/14/2018
+321, Bard ,game-summary-defeat,7/14/2018
+322, Bard ,game-summary-victory,7/14/2018
+323, Bard ,game-summary-victory,7/14/2018
+324, Bard ,game-summary-victory,7/14/2018
+325, Bard ,game-summary-victory,7/14/2018
+326, Tahm Kench ,game-summary-defeat,7/14/2018
+327, Tahm Kench ,game-summary-defeat,7/14/2018
+328, Lulu ,game-summary-victory,7/13/2018
+329, Tahm Kench ,game-summary-victory,7/13/2018
+330, Tahm Kench ,game-summary-victory,7/11/2018
+331, Tahm Kench ,game-summary-defeat,7/11/2018
+332, Tahm Kench ,game-summary-victory,7/10/2018
+333, Tahm Kench ,game-summary-victory,7/8/2018
+334, Tahm Kench ,game-summary-victory,7/8/2018
+335, Bard ,game-summary-defeat,7/8/2018
+336, Bard ,game-summary-defeat,7/8/2018
+337, Bard ,game-summary-victory,7/8/2018
+338, Bard ,game-summary-victory,7/8/2018
+339, Tahm Kench ,game-summary-defeat,7/8/2018
+340, Tahm Kench ,game-summary-victory,7/8/2018
+341, Tahm Kench ,game-summary-defeat,7/7/2018
+342, Tahm Kench ,game-summary-defeat,7/7/2018
+343, Tahm Kench ,game-summary-defeat,7/5/2018
+344, Tahm Kench ,game-summary-victory,7/5/2018
+345, Tahm Kench ,game-summary-victory,7/5/2018
+346, Tahm Kench ,game-summary-defeat,7/5/2018
+347, Tahm Kench ,game-summary-victory,7/5/2018
+348, Nami ,game-summary-defeat,7/5/2018
+349, Tahm Kench ,game-summary-victory,7/5/2018
+350, Tahm Kench ,game-summary-defeat,7/4/2018
+351, Tahm Kench ,game-summary-victory,7/4/2018
+352, Tahm Kench ,game-summary-defeat,7/3/2018
+353, Tahm Kench ,game-summary-victory,7/3/2018
+354, Tahm Kench ,game-summary-defeat,7/3/2018
+355, Tahm Kench ,game-summary-defeat,7/2/2018
+356, Tahm Kench ,game-summary-defeat,7/1/2018
+357, Tahm Kench ,game-summary-victory,7/1/2018
+358, Tahm Kench ,game-summary-defeat,7/1/2018
+359, Tahm Kench ,game-summary-defeat,7/1/2018
+360, Tahm Kench ,game-summary-defeat,7/1/2018
+361, Tahm Kench ,game-summary-defeat,7/1/2018
+362, Tahm Kench ,game-summary-defeat,7/1/2018
+363, Tahm Kench ,game-summary-earlysurrender,7/1/2018
+364, Tahm Kench ,game-summary-victory,6/30/2018
+365, Tahm Kench ,game-summary-victory,6/30/2018
+366, Tahm Kench ,game-summary-victory,6/30/2018
+367, Tahm Kench ,game-summary-victory,6/30/2018
+368, Tahm Kench ,game-summary-defeat,6/30/2018
+369, Tahm Kench ,game-summary-defeat,6/29/2018
+370, Tahm Kench ,game-summary-defeat,6/29/2018
+371, Tahm Kench ,game-summary-defeat,6/28/2018
+372, Tahm Kench ,game-summary-defeat,6/27/2018
+373, Tahm Kench ,game-summary-defeat,6/27/2018
+374, Malphite ,game-summary-victory,6/27/2018
+375, Malphite ,game-summary-defeat,6/25/2018
+376, Tahm Kench ,game-summary-victory,6/22/2018
+377, Malphite ,game-summary-victory,6/22/2018
+378, Tahm Kench ,game-summary-victory,6/20/2018
+379, Tahm Kench ,game-summary-victory,6/20/2018
+380, Tahm Kench ,game-summary-defeat,6/20/2018
+381, Tahm Kench ,game-summary-victory,6/18/2018
+382, Tahm Kench ,game-summary-defeat,6/18/2018
+383, Malphite ,game-summary-defeat,6/17/2018
+384, Tahm Kench ,game-summary-victory,6/17/2018
+385, Tahm Kench ,game-summary-victory,6/17/2018
+386, Tahm Kench ,game-summary-defeat,6/17/2018
+387, Tahm Kench ,game-summary-victory,6/16/2018
+388, Tahm Kench ,game-summary-victory,6/16/2018
+389, Tahm Kench ,game-summary-defeat,6/16/2018
+390, Tahm Kench ,game-summary-victory,6/14/2018
+391, Tahm Kench ,game-summary-victory,6/14/2018
+392, Tahm Kench ,game-summary-defeat,6/14/2018
+393, Tahm Kench ,game-summary-defeat,6/13/2018
+394, Tahm Kench ,game-summary-victory,6/13/2018
+395, Tahm Kench ,game-summary-defeat,6/12/2018
+396, Alistar ,game-summary-victory,6/12/2018
+397, Tahm Kench ,game-summary-victory,6/11/2018
+398, Tahm Kench ,game-summary-defeat,6/11/2018
+399, Tahm Kench ,game-summary-defeat,6/10/2018
+400, Tahm Kench ,game-summary-defeat,6/10/2018
+401, Tahm Kench ,game-summary-victory,6/10/2018
+402, Tahm Kench ,game-summary-defeat,6/9/2018
+403, Tahm Kench ,game-summary-defeat,6/9/2018
+404, Tahm Kench ,game-summary-victory,6/9/2018
+405, Nami ,game-summary-victory,6/9/2018
+406, Tahm Kench ,game-summary-victory,6/9/2018
+407, Tahm Kench ,game-summary-earlysurrender,6/9/2018
+408, Tahm Kench ,game-summary-victory,6/9/2018
+409, Tahm Kench ,game-summary-victory,6/9/2018
+410, Tahm Kench ,game-summary-defeat,6/8/2018
+411, Tahm Kench ,game-summary-defeat,6/8/2018
+412, Tahm Kench ,game-summary-victory,6/8/2018
+413, Tahm Kench ,game-summary-victory,6/7/2018
+414, Tahm Kench ,game-summary-victory,6/7/2018
+415, Tahm Kench ,game-summary-defeat,6/6/2018
+416, Lulu ,game-summary-defeat,6/6/2018
+417, Tahm Kench ,game-summary-victory,6/4/2018
+418, Tahm Kench ,game-summary-victory,6/3/2018
+419, Lulu ,game-summary-defeat,6/3/2018
+420, Tahm Kench ,game-summary-earlysurrender,6/3/2018
+421, Tahm Kench ,game-summary-defeat,6/3/2018
+422, Tahm Kench ,game-summary-victory,6/2/2018
+423, Tahm Kench ,game-summary-victory,6/2/2018
+424, Ornn ,game-summary-victory,6/2/2018
+425, Tahm Kench ,game-summary-defeat,6/2/2018
+426, Tahm Kench ,game-summary-earlysurrender,6/2/2018
+427, Tahm Kench ,game-summary-victory,6/2/2018
+428, Tahm Kench ,game-summary-defeat,6/2/2018
+429, Tahm Kench ,game-summary-victory,6/2/2018
+430, Tahm Kench ,game-summary-victory,6/2/2018
+431, Tahm Kench ,game-summary-defeat,6/2/2018
+432, Lulu ,game-summary-victory,5/31/2018
+433, Tahm Kench ,game-summary-defeat,5/30/2018
+434, Tahm Kench ,game-summary-victory,5/29/2018
+435, Tahm Kench ,game-summary-victory,5/27/2018
+436, Tahm Kench ,game-summary-defeat,5/27/2018
+437, Tahm Kench ,game-summary-defeat,5/27/2018
+438, Tahm Kench ,game-summary-defeat,5/27/2018
+439, Tahm Kench ,game-summary-victory,5/27/2018
+440, Tahm Kench ,game-summary-victory,5/27/2018
+441, Lulu ,game-summary-defeat,5/26/2018
+442, Janna ,game-summary-defeat,5/26/2018
+443, Janna ,game-summary-victory,5/26/2018
+444, Lulu ,game-summary-victory,5/25/2018
+445, Janna ,game-summary-defeat,5/25/2018
+446, Nami ,game-summary-victory,5/24/2018
+447, Nami ,game-summary-earlysurrender,5/24/2018
+448, Nami ,game-summary-earlysurrender,5/24/2018
+449, Lulu ,game-summary-earlysurrender,5/24/2018
+450, Lulu ,game-summary-defeat,5/22/2018
+451, Janna ,game-summary-defeat,5/22/2018
+452, Lulu ,game-summary-victory,5/21/2018
+453, Lulu ,game-summary-defeat,5/21/2018
+454, Lulu ,game-summary-defeat,5/21/2018
+455, Lulu ,game-summary-defeat,5/21/2018
+456, Lulu ,game-summary-victory,5/20/2018
+457, Lulu ,game-summary-victory,5/20/2018
+458, Bard ,game-summary-defeat,5/20/2018
+459, Lulu ,game-summary-defeat,5/20/2018
+460, Janna ,game-summary-defeat,5/20/2018
+461, Janna ,game-summary-victory,5/20/2018
+462, Janna ,game-summary-defeat,5/20/2018
+463, Bard ,game-summary-defeat,5/19/2018
+464, Janna ,game-summary-victory,5/17/2018
+465, Lulu ,game-summary-defeat,5/17/2018
+466, Lulu ,game-summary-victory,5/16/2018
+467, Janna ,game-summary-victory,5/16/2018
+468, Bard ,game-summary-defeat,5/15/2018
+469, Lulu ,game-summary-defeat,5/15/2018
+470, Bard ,game-summary-victory,5/13/2018
+471, Janna ,game-summary-defeat,5/13/2018
+472, Janna ,game-summary-victory,5/13/2018
+473, Nami ,game-summary-defeat,5/13/2018
+474, Lulu ,game-summary-defeat,5/13/2018
+475, Lulu ,game-summary-victory,5/12/2018
+476, Nami ,game-summary-defeat,5/12/2018
+477, Janna ,game-summary-defeat,5/12/2018
+478, Janna ,game-summary-victory,5/12/2018
+479, Lulu ,game-summary-defeat,5/12/2018
+480, Janna ,game-summary-defeat,5/12/2018
+481, Lulu ,game-summary-victory,5/11/2018
+482, Janna ,game-summary-defeat,5/11/2018
+483, Janna ,game-summary-defeat,5/10/2018
+484, Janna ,game-summary-defeat,5/10/2018
+485, Janna ,game-summary-defeat,5/9/2018
+486, Janna ,game-summary-victory,5/9/2018
+487, Nami ,game-summary-victory,5/8/2018
+488, Bard ,game-summary-victory,5/8/2018
+489, Lulu ,game-summary-victory,5/8/2018
+490, Ryze ,game-summary-defeat,5/8/2018
+491, Janna ,game-summary-defeat,5/8/2018
+492, Janna ,game-summary-defeat,5/8/2018
+493, Nami ,game-summary-victory,5/8/2018
+494, Janna ,game-summary-defeat,5/8/2018
+495, Janna ,game-summary-victory,5/7/2018
+496, Nami ,game-summary-defeat,5/7/2018
+497, Nami ,game-summary-victory,5/4/2018
+498, Janna ,game-summary-defeat,5/4/2018
+499, Lulu ,game-summary-victory,5/3/2018
+500, Janna ,game-summary-victory,5/3/2018
+501, Janna ,game-summary-victory,5/3/2018
+502, Janna ,game-summary-defeat,5/2/2018
+503, Nami ,game-summary-defeat,5/2/2018
+504, Janna ,game-summary-defeat,5/2/2018
+505, Janna ,game-summary-victory,5/1/2018
+506, Nami ,game-summary-victory,5/1/2018
+507, Janna ,game-summary-defeat,5/1/2018
+508, Janna ,game-summary-victory,5/1/2018
+509, Janna ,game-summary-defeat,4/29/2018
+510, Janna ,game-summary-victory,4/29/2018
+511, Nami ,game-summary-defeat,4/29/2018
+512, Nami ,game-summary-victory,4/29/2018
+513, Nami ,game-summary-victory,4/29/2018
+514, Nami ,game-summary-victory,4/28/2018
+515, Nami ,game-summary-victory,4/28/2018
+516, Nami ,game-summary-victory,4/28/2018
+517, Janna ,game-summary-defeat,4/28/2018
+518, Janna ,game-summary-victory,4/28/2018
+519, Janna ,game-summary-defeat,4/27/2018
+520, Lulu ,game-summary-victory,4/26/2018
+521, Janna ,game-summary-victory,4/25/2018
+522, Tahm Kench ,game-summary-victory,4/24/2018
+523, Janna ,game-summary-victory,4/24/2018
+524, Tahm Kench ,game-summary-victory,4/23/2018
+525, Tahm Kench ,game-summary-defeat,4/20/2018
+526, Lulu ,game-summary-defeat,4/19/2018
+527, Tahm Kench ,game-summary-victory,4/19/2018
+528, Tahm Kench ,game-summary-defeat,4/18/2018
+529, Tahm Kench ,game-summary-defeat,4/18/2018
+530, Janna ,game-summary-earlysurrender,4/18/2018
+531, Tahm Kench ,game-summary-defeat,4/17/2018
+532, Tahm Kench ,game-summary-defeat,4/17/2018
+533, Tahm Kench ,game-summary-victory,4/16/2018
+534, Janna ,game-summary-defeat,4/15/2018
+535, Janna ,game-summary-victory,4/15/2018
+536, Bard ,game-summary-victory,4/15/2018
+537, Tahm Kench ,game-summary-defeat,4/14/2018
+538, Tahm Kench ,game-summary-defeat,4/14/2018
+539, Lulu ,game-summary-victory,4/14/2018
+540, Lulu ,game-summary-victory,4/14/2018
+541, Janna ,game-summary-defeat,4/14/2018
+542, Janna ,game-summary-defeat,4/13/2018
+543, Janna ,game-summary-defeat,4/13/2018
+544, Janna ,game-summary-victory,4/12/2018
+545, Janna ,game-summary-victory,4/12/2018
+546, Janna ,game-summary-victory,4/12/2018
+547, Janna ,game-summary-victory,4/11/2018
+548, Janna ,game-summary-victory,4/11/2018
+549, Tahm Kench ,game-summary-defeat,4/1/2018
+550, Tahm Kench ,game-summary-defeat,4/1/2018
+551, Tahm Kench ,game-summary-defeat,4/1/2018
+552, Tahm Kench ,game-summary-victory,4/1/2018
+553, Vayne ,game-summary-defeat,4/1/2018
+554, Bard ,game-summary-defeat,3/31/2018
+555, Bard ,game-summary-defeat,3/31/2018
+556, Nami ,game-summary-defeat,3/31/2018
+557, Tahm Kench ,game-summary-defeat,3/31/2018
+558, Tahm Kench ,game-summary-victory,3/31/2018
+559, Tahm Kench ,game-summary-victory,3/31/2018
+560, Tahm Kench ,game-summary-victory,3/31/2018
+561, Bard ,game-summary-defeat,3/31/2018
+562, Bard ,game-summary-defeat,3/31/2018
+563, Tahm Kench ,game-summary-defeat,3/30/2018
+564, Tahm Kench ,game-summary-victory,3/29/2018
+565, Tahm Kench ,game-summary-victory,3/29/2018
+566, Tahm Kench ,game-summary-victory,3/29/2018
+567, Malphite ,game-summary-defeat,3/28/2018
+568, Leona ,game-summary-victory,3/28/2018
+569, Lulu ,game-summary-defeat,3/28/2018
+570, Lulu ,game-summary-defeat,3/27/2018
+571, Tahm Kench ,game-summary-victory,3/26/2018
+572, Tahm Kench ,game-summary-victory,3/26/2018
+573, Soraka ,game-summary-defeat,3/25/2018
+574, Soraka ,game-summary-defeat,3/25/2018
+575, Bard ,game-summary-defeat,3/25/2018
+576, Bard ,game-summary-defeat,3/25/2018
+577, Bard ,game-summary-victory,3/25/2018
+578, Bard ,game-summary-defeat,3/25/2018
+579, Bard ,game-summary-defeat,3/25/2018
+580, Bard ,game-summary-earlysurrender,3/25/2018
+581, Ornn ,game-summary-victory,3/24/2018
+582, Tahm Kench ,game-summary-victory,3/23/2018
+583, Ornn ,game-summary-defeat,3/23/2018
+584, Ornn ,game-summary-defeat,3/23/2018
+585, Tahm Kench ,game-summary-defeat,3/22/2018
+586, Tahm Kench ,game-summary-defeat,3/22/2018
+587, Leona ,game-summary-victory,3/21/2018
+588, Braum ,game-summary-defeat,3/21/2018
+589, Leona ,game-summary-victory,3/19/2018
+590, Nami ,game-summary-defeat,3/19/2018
+591, Lulu ,game-summary-defeat,3/19/2018
+592, Lulu ,game-summary-victory,3/18/2018
+593, Lulu ,game-summary-defeat,3/18/2018
+594, Lulu ,game-summary-victory,3/18/2018
+595, Ornn ,game-summary-defeat,3/18/2018
+596, Ornn ,game-summary-victory,3/17/2018
+597, Bard ,game-summary-victory,3/17/2018
+598, Bard ,game-summary-victory,3/17/2018
+599, Bard ,game-summary-victory,3/17/2018
+600, Ornn ,game-summary-defeat,3/16/2018
+601, Bard ,game-summary-defeat,3/16/2018
+602, Bard ,game-summary-victory,3/15/2018
+603, Bard ,game-summary-victory,3/15/2018
+604, Soraka ,game-summary-victory,3/14/2018
+605, Nami ,game-summary-victory,3/13/2018
+606, Nami ,game-summary-defeat,3/13/2018
+607, Braum ,game-summary-defeat,3/12/2018
+608, Nami ,game-summary-defeat,3/12/2018
+609, Nami ,game-summary-defeat,3/12/2018
+610, Nami ,game-summary-defeat,3/11/2018
+611, Soraka ,game-summary-defeat,3/11/2018
+612, Soraka ,game-summary-earlysurrender,3/11/2018
+613, Soraka ,game-summary-victory,3/11/2018
+614, Soraka ,game-summary-defeat,3/11/2018
+615, Soraka ,game-summary-victory,3/11/2018
+616, Janna ,game-summary-defeat,3/11/2018
+617, Ornn ,game-summary-victory,3/10/2018
+618, Tahm Kench ,game-summary-victory,3/10/2018
+619, Bard ,game-summary-defeat,3/10/2018
+620, Bard ,game-summary-defeat,3/10/2018
+621, Ornn ,game-summary-defeat,3/10/2018
+622, Bard ,game-summary-victory,3/9/2018
+623, Ornn ,game-summary-defeat,3/9/2018
+624, Ornn ,game-summary-victory,3/8/2018
+625, Bard ,game-summary-defeat,3/7/2018
+626, Tahm Kench ,game-summary-victory,3/7/2018
+627, Sona ,game-summary-victory,3/6/2018
+628, Sona ,game-summary-victory,3/6/2018
+629, Bard ,game-summary-defeat,3/5/2018
+630, Sona ,game-summary-defeat,3/5/2018
+631, Ornn ,game-summary-victory,3/4/2018
+632, Ornn ,game-summary-defeat,3/3/2018
+633, Tahm Kench ,game-summary-defeat,3/3/2018
+634, Ornn ,game-summary-victory,3/3/2018
+635, Bard ,game-summary-defeat,3/3/2018
+636, Tahm Kench ,game-summary-victory,3/2/2018
+637, Bard ,game-summary-victory,3/2/2018
+638, Tahm Kench ,game-summary-victory,3/1/2018
+639, Bard ,game-summary-victory,3/1/2018
+640, Bard ,game-summary-victory,3/1/2018
+641, Bard ,game-summary-defeat,2/28/2018
+642, Bard ,game-summary-victory,2/28/2018
+643, Bard ,game-summary-defeat,2/27/2018
+644, Tahm Kench ,game-summary-victory,2/27/2018
+645, Tahm Kench ,game-summary-victory,2/26/2018
+646, Braum ,game-summary-victory,2/25/2018
+647, Tahm Kench ,game-summary-victory,2/25/2018
+648, Bard ,game-summary-defeat,2/25/2018
+649, Bard ,game-summary-victory,2/25/2018
+650, Bard ,game-summary-defeat,2/25/2018
+651, Tahm Kench ,game-summary-victory,2/24/2018
+652, Tahm Kench ,game-summary-defeat,2/24/2018
+653, Tahm Kench ,game-summary-victory,2/24/2018
+654, Tahm Kench ,game-summary-victory,2/24/2018
+655, Tahm Kench ,game-summary-victory,2/23/2018
+656, Tahm Kench ,game-summary-defeat,2/23/2018
+657, Tahm Kench ,game-summary-victory,2/23/2018
+658, Tahm Kench ,game-summary-victory,2/22/2018
+659, Tahm Kench ,game-summary-victory,2/22/2018
+660, Tahm Kench ,game-summary-defeat,2/22/2018
+661, Tahm Kench ,game-summary-defeat,2/22/2018
+662, Tahm Kench ,game-summary-victory,2/21/2018
+663, Tahm Kench ,game-summary-defeat,2/21/2018
+664, Tahm Kench ,game-summary-victory,2/20/2018
+665, Varus ,game-summary-defeat,2/20/2018
+666, Tahm Kench ,game-summary-defeat,2/20/2018
+667, Tahm Kench ,game-summary-earlysurrender,2/20/2018
+668, Tahm Kench ,game-summary-victory,2/19/2018
+669, Tahm Kench ,game-summary-defeat,2/19/2018
+670, Tahm Kench ,game-summary-defeat,2/19/2018
+671, Bard ,game-summary-defeat,2/19/2018
+672, Tahm Kench ,game-summary-victory,2/18/2018
+673, Tahm Kench ,game-summary-defeat,2/18/2018
+674, Tahm Kench ,game-summary-defeat,2/18/2018
+675, Tahm Kench ,game-summary-victory,2/18/2018
+676, Tahm Kench ,game-summary-defeat,2/18/2018
+677, Tahm Kench ,game-summary-defeat,2/18/2018
+678, Tahm Kench ,game-summary-defeat,2/17/2018
+679, Soraka ,game-summary-defeat,2/17/2018
+680, Soraka ,game-summary-defeat,2/17/2018
+681, Janna ,game-summary-victory,2/17/2018
+682, Janna ,game-summary-defeat,2/17/2018
+683, Janna ,game-summary-earlysurrender,2/17/2018
+684, Janna ,game-summary-victory,2/17/2018
+685, Janna ,game-summary-victory,2/17/2018
+686, Ornn ,game-summary-defeat,2/15/2018
+687, Soraka ,game-summary-defeat,2/15/2018
+688, Ornn ,game-summary-victory,2/15/2018
+689, Alistar ,game-summary-defeat,2/14/2018
+690, Ornn ,game-summary-victory,2/13/2018
+691, Nami ,game-summary-defeat,2/13/2018
+692, Alistar ,game-summary-defeat,2/13/2018
+693, Soraka ,game-summary-defeat,2/12/2018
+694, Bard ,game-summary-defeat,2/12/2018
+695, Alistar ,game-summary-victory,2/11/2018
+696, Braum ,game-summary-defeat,2/11/2018
+697, Braum ,game-summary-victory,2/11/2018
+698, Braum ,game-summary-victory,2/9/2018
+699, Bard ,game-summary-victory,2/9/2018
+700, Bard ,game-summary-defeat,2/8/2018
+701, Tahm Kench ,game-summary-victory,2/8/2018
+702, Tahm Kench ,game-summary-defeat,2/7/2018
+703, Alistar ,game-summary-victory,2/7/2018
+704, Tahm Kench ,game-summary-victory,2/7/2018
+705, Ornn ,game-summary-defeat,2/6/2018
+706, Soraka ,game-summary-defeat,2/6/2018
+707, Tahm Kench ,game-summary-victory,2/4/2018
+708, Tahm Kench ,game-summary-victory,2/4/2018
+709, Bard ,game-summary-defeat,2/4/2018
+710, Bard ,game-summary-victory,2/4/2018
+711, Soraka ,game-summary-victory,2/4/2018
+712, Soraka ,game-summary-defeat,2/4/2018
+713, Soraka ,game-summary-defeat,2/4/2018
+714, Soraka ,game-summary-defeat,2/3/2018
+715, Bard ,game-summary-defeat,2/3/2018
+716, Vayne ,game-summary-defeat,2/3/2018
+717, Nami ,game-summary-victory,2/2/2018
+718, Nami ,game-summary-earlysurrender,2/2/2018
+719, Bard ,game-summary-defeat,2/2/2018
+720, Bard ,game-summary-defeat,2/2/2018
+721, Nami ,game-summary-defeat,2/1/2018
+722, Bard ,game-summary-defeat,1/31/2018
+723, Alistar ,game-summary-defeat,1/31/2018
+724, Alistar ,game-summary-victory,1/31/2018
+725, Alistar ,game-summary-victory,1/30/2018
+726, Alistar ,game-summary-victory,1/29/2018
+727, Janna ,game-summary-defeat,1/29/2018
+728, Lulu ,game-summary-victory,1/28/2018
+729, Alistar ,game-summary-defeat,1/28/2018
+730, Alistar ,game-summary-defeat,1/28/2018
+731, Braum ,game-summary-victory,1/27/2018
+732, Soraka ,game-summary-victory,1/27/2018
+733, Janna ,game-summary-defeat,1/26/2018
+734, Janna ,game-summary-earlysurrender,1/26/2018
+735, Ornn ,game-summary-victory,1/26/2018
+736, Janna ,game-summary-defeat,1/25/2018
+737, Vayne ,game-summary-victory,1/24/2018
+738, Tristana ,game-summary-victory,1/23/2018
+739, Tristana ,game-summary-victory,1/23/2018
+740, Bard ,game-summary-victory,1/22/2018
+741, Bard ,game-summary-defeat,1/22/2018
+742, Bard ,game-summary-defeat,1/22/2018
+743, Bard ,game-summary-victory,1/21/2018
+744, Caitlyn ,game-summary-defeat,1/21/2018
+745, Caitlyn ,game-summary-defeat,1/21/2018
+746, Bard ,game-summary-defeat,1/21/2018
+747, Ornn ,game-summary-defeat,1/21/2018
+748, Bard ,game-summary-defeat,1/21/2018
+749, Bard ,game-summary-victory,1/21/2018
+750, Bard ,game-summary-defeat,1/13/2018
+751, Bard ,game-summary-defeat,1/13/2018
+752, Bard ,game-summary-defeat,1/12/2018
+753, Bard ,game-summary-victory,1/11/2018
+754, Bard ,game-summary-victory,1/11/2018
+755, Bard ,game-summary-defeat,1/11/2018
+756, Tahm Kench ,game-summary-defeat,1/9/2018
+757, Bard ,game-summary-earlysurrender,1/9/2018
+758, Bard ,game-summary-victory,1/8/2018
+759, Bard ,game-summary-victory,1/8/2018
+760, Bard ,game-summary-victory,1/8/2018
+761, Bard ,game-summary-victory,1/7/2018
+762, Janna ,game-summary-victory,1/7/2018
+763, Bard ,game-summary-defeat,1/7/2018
+764, Bard ,game-summary-defeat,1/7/2018
+765, Janna ,game-summary-defeat,1/3/2018
+766, Braum ,game-summary-defeat,12/25/2017
+767, Bard ,game-summary-defeat,12/14/2017
+768, Bard ,game-summary-victory,12/14/2017
+769, Janna ,game-summary-defeat,12/13/2017
+770, Bard ,game-summary-defeat,12/13/2017
+771, Bard ,game-summary-defeat,12/11/2017
+772, Bard ,game-summary-defeat,12/11/2017
+773, Bard ,game-summary-defeat,12/11/2017
+774, Tahm Kench ,game-summary-victory,12/10/2017
+775, Tahm Kench ,game-summary-victory,12/10/2017
+776, Ornn ,game-summary-victory,12/10/2017
+777, Bard ,game-summary-defeat,12/10/2017
+778, Bard ,game-summary-defeat,12/10/2017
+779, Bard ,game-summary-victory,12/5/2017
+780, Bard ,game-summary-defeat,12/5/2017
+781, Tahm Kench ,game-summary-earlysurrender,12/3/2017
+782, Bard ,game-summary-defeat,12/3/2017
+783, Sona ,game-summary-victory,12/3/2017
+784, Sona ,game-summary-victory,12/3/2017
+785, Sona ,game-summary-victory,12/3/2017
+786, Tahm Kench ,game-summary-victory,12/3/2017
+787, Janna ,game-summary-defeat,12/2/2017
+788, Tahm Kench ,game-summary-victory,12/2/2017
+789, Tahm Kench ,game-summary-victory,12/2/2017
+790, Tahm Kench ,game-summary-earlysurrender,12/2/2017
+791, Tahm Kench ,game-summary-defeat,12/2/2017
+792, Bard ,game-summary-defeat,11/29/2017
+793, Janna ,game-summary-defeat,11/29/2017
+794, Ornn ,game-summary-victory,11/28/2017
+795, Bard ,game-summary-victory,11/28/2017
+796, Bard ,game-summary-defeat,11/28/2017
+797, Bard ,game-summary-defeat,11/28/2017
+798, Ornn ,game-summary-defeat,11/27/2017
+799, Janna ,game-summary-defeat,11/27/2017
+800, Janna ,game-summary-defeat,11/26/2017
+801, Ornn ,game-summary-defeat,11/26/2017
+802, Janna ,game-summary-victory,11/26/2017
+803, Ornn ,game-summary-defeat,11/26/2017
+804, Ornn ,game-summary-defeat,11/26/2017
+805, Braum ,game-summary-defeat,11/26/2017
+806, Alistar ,game-summary-defeat,11/26/2017
+807, Ornn ,game-summary-defeat,11/26/2017
+808, Ornn ,game-summary-victory,11/25/2017
+809, Ornn ,game-summary-victory,11/25/2017
+810, Sona ,game-summary-victory,11/25/2017
+811, Ornn ,game-summary-defeat,11/25/2017
+812, Soraka ,game-summary-defeat,11/25/2017
+813, Sona ,game-summary-defeat,11/25/2017
+814, Ornn ,game-summary-victory,11/24/2017
+815, Ornn ,game-summary-defeat,11/23/2017
+816, Ornn ,game-summary-victory,11/23/2017
+817, Ornn ,game-summary-victory,11/23/2017
+818, Janna ,game-summary-defeat,11/22/2017
+819, Sona ,game-summary-defeat,11/22/2017
+820, Ornn ,game-summary-victory,11/22/2017
+821, Ornn ,game-summary-victory,11/21/2017
+822, Lulu ,game-summary-victory,11/19/2017
+823, Soraka ,game-summary-victory,11/19/2017
+824, Soraka ,game-summary-defeat,11/19/2017
+825, Soraka ,game-summary-victory,11/19/2017
+826, Soraka ,game-summary-victory,11/18/2017
+827, Tahm Kench ,game-summary-defeat,11/18/2017
+828, Tahm Kench ,game-summary-victory,11/18/2017
+829, Tahm Kench ,game-summary-defeat,11/18/2017
+830, Tahm Kench ,game-summary-defeat,11/18/2017
+831, Tahm Kench ,game-summary-defeat,11/18/2017
+832, Tahm Kench ,game-summary-victory,11/18/2017
+833, Tahm Kench ,game-summary-victory,11/18/2017
+834, Tahm Kench ,game-summary-victory,11/18/2017
+835, Tahm Kench ,game-summary-victory,11/17/2017
+836, Tahm Kench ,game-summary-victory,11/17/2017
+837, Tahm Kench ,game-summary-defeat,11/17/2017
+838, Janna ,game-summary-earlysurrender,11/17/2017
+839, Ornn ,game-summary-victory,11/16/2017
+840, Ornn ,game-summary-defeat,11/16/2017
+841, Tahm Kench ,game-summary-defeat,11/15/2017
+842, Ornn ,game-summary-defeat,11/15/2017
+843, Ornn ,game-summary-victory,11/14/2017
+844, Ornn ,game-summary-victory,11/14/2017
+845, Ornn ,game-summary-earlysurrender,11/14/2017
+846, Bard ,game-summary-defeat,11/14/2017
+847, Lulu ,game-summary-victory,11/13/2017
+848, Lulu ,game-summary-defeat,11/13/2017
+849, Lulu ,game-summary-defeat,11/13/2017
+850, Ornn ,game-summary-victory,11/12/2017
+851, Leona ,game-summary-defeat,11/12/2017
+852, Lulu ,game-summary-victory,11/12/2017
+853, Braum ,game-summary-victory,11/12/2017
+854, Bard ,game-summary-defeat,11/12/2017
+855, Ornn ,game-summary-defeat,11/12/2017
+856, Ornn ,game-summary-victory,11/12/2017
+857, Bard ,game-summary-victory,11/12/2017
+858, Ornn ,game-summary-victory,11/12/2017
+859, Soraka ,game-summary-defeat,11/12/2017
+860, Ornn ,game-summary-defeat,11/12/2017
+861, Lulu ,game-summary-defeat,11/11/2017
+862, Lulu ,game-summary-victory,11/11/2017
+863, Ornn ,game-summary-victory,11/11/2017
+864, Ornn ,game-summary-defeat,11/11/2017
+865, Ornn ,game-summary-victory,11/11/2017
+866, Ornn ,game-summary-victory,11/9/2017
+867, Ornn ,game-summary-victory,11/7/2017
+868, Ornn ,game-summary-defeat,11/6/2017
+869, Braum ,game-summary-victory,11/6/2017
+870, Lulu ,game-summary-victory,11/5/2017
+871, Lulu ,game-summary-earlysurrender,11/5/2017
+872, Leona ,game-summary-defeat,11/5/2017
+873, Ornn ,game-summary-defeat,11/5/2017
+874, Bard ,game-summary-victory,11/4/2017
+875, Ornn ,game-summary-defeat,11/4/2017
+876, Ornn ,game-summary-victory,11/4/2017
+877, Janna ,game-summary-defeat,11/4/2017
+878, Janna ,game-summary-victory,11/4/2017
+879, Ornn ,game-summary-victory,11/4/2017
+880, Ornn ,game-summary-defeat,11/4/2017
+881, Ornn ,game-summary-victory,11/4/2017
+882, Ornn ,game-summary-victory,11/4/2017
+883, Ornn ,game-summary-victory,11/4/2017
+884, Braum ,game-summary-victory,11/3/2017
